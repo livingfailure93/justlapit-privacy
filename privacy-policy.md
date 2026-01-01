@@ -1,6 +1,6 @@
 # Privacy Policy for JustLapIt
 
-**Last updated: December 2025**
+**Last updated: January 2026**
 
 Living Excellence Games ("we", "our", or "us") operates the JustLapIt mobile application. This Privacy Policy explains how we collect, use, and protect your information.
 
@@ -210,3 +210,4 @@ Premium users can select custom sounds from their device for timer notifications
 
 *Living Excellence Games*
 *JustLapIt - Your Personal Workout Timer*
+
